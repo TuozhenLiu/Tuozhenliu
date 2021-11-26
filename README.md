@@ -24,13 +24,9 @@
 <a href="https://www.cplusplus.com" target="_blank"><img align="left" alt="c++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c++/c++.svg"></a>
 <a href="https://www.linux.org/tags/bash" target="_blank"> <img align="left" alt="bash" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"> </a>
 <a href="https://www.docker.com" target="_blank"><img align="left" alt="docker" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg"></a>
-
 <a href="https://hadoop.apache.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/hadoop/hadoop.svg" alt="hadoop" height='42px'/> </a>
-<a href="www.w3.org/html/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height='42px'/> </a>
-<a href="www.w3.org/Style/CSS/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height='42px'/> </a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://dev.mysql.com" target="_blank"> <img align="left" src="./assets/mysql-original.svg" alt="mysql" height='42px'/> </a>
 
 <br>
 <br>
