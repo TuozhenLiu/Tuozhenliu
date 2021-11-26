@@ -7,6 +7,7 @@
 <a href='https://www.kaggle.com/tuozhenliu'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
 ### 🧐 More About Me:
+- 🏠 &nbsp; From Beijing
 - 🎓 &nbsp; Studying at CUFE
 - 📚 &nbsp; Majoring in Applied Statistics 
 - 📝 &nbsp; Researching in NLP with Deep learning & Finanial Data Analysis
