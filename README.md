@@ -35,11 +35,6 @@
 <br>
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuozhenliu&count_private=true&show_icons=true&theme=dark" />
-</a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuozhenliu&langs_count=3&theme=dark&count_private=true&hide=html&card_width=300" />
-</a>
-<!-- &layout=compact -->
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuozhenliu&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="Tuozhenliu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuozhenliu&layout=compact&theme=dark&hide_border=true&hide=html&count_private=true&card_width=300" /></a> |
+| ------------- | ------------- |
