@@ -12,7 +12,7 @@
 - 📚 &nbsp; Majoring in Applied Statistics 
 - 📝 &nbsp; Researching in NLP with Deep learning & Finanial Data Analysis
 - 👨🏻‍💻 &nbsp; Working at PingAn Technology (NLP Algorithm Researcher)
-- 📫 &nbsp; Worked at Deloitte RA (Data Scientist Intern)
+- 📫 &nbsp; Worked at [Deloitte RA (Data Scientist Intern)](https://github.com/TuozhenLiu/Deloitte_INsight-Data_Driven_Industry_Analysis)
 - 👷 &nbsp; [Leetcode together](https://github.com/TuozhenLiu/Data-Structure-Algorithm)
 
 
