@@ -40,6 +40,6 @@
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuozhenliu&langs_count=8&theme=dark&count_private=true&hide=javascript,html,css,CoffeeScript&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuozhenliu&langs_count=8&theme=dark&count_private=true&hide=tex&card_width=300" />
 </a>
 <!-- &layout=compact -->
