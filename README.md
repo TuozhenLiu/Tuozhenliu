@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Tuozhen Liu!
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350"/>
 
 ###  [Personal Website](https://tuozhenliu.github.io)
 
