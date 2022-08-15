@@ -35,5 +35,5 @@
 <br>
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuozhenliu&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="Tuozhenliu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuozhenliu&layout=compact&theme=dark&hide_border=true&hide=html&count_private=true&card_width=300" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Tuozhenliu&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="Tuozhenliu's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuozhenliu&layout=compact&theme=dark&hide_border=true&hide=jupyter-notebook,html&count_private=true&card_width=400&langs_count=20" /></a> |
 | ------------- | ------------- |
